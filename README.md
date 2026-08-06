@@ -2,7 +2,7 @@
 
 **Building agent systems & RAG tooling for real enterprise workflows.**
 
-Hangzhou 路 Agent Engineering 路 Deep Agents / LangGraph / FastAPI / Vue
+Hangzhou · Agent Engineering · Deep Agents / LangGraph / FastAPI / Vue
 
 [![CSDN](https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square)](https://blog.csdn.net/a_student_2020)
 [![GitHub](https://img.shields.io/badge/GitHub-daetz--coder-181717?style=flat-square&logo=github)](https://github.com/daetz-coder)
@@ -11,16 +11,16 @@ Hangzhou 路 Agent Engineering 路 Deep Agents / LangGraph / FastAPI / Vue
 
 ## Now
 
-Focus: **enterprise IT support agents** and **grounded RAG** 鈥?planning, HITL approvals, Skills/Subagents, hybrid retrieval, citation & refusal, and automated eval.
+Focus: **enterprise IT support agents** and **grounded RAG** - planning, HITL approvals, Skills/Subagents, hybrid retrieval, citation & refusal, and automated eval.
 
 | Project | What it is |
 | --- | --- |
-| **[DeepSupport-OS](https://github.com/daetz-coder/DeepSupport-OS)** | **Enterprise IT Help Desk Agent Harness** 鈥?M365 Help Desk (Outlook / Teams / OneDrive): long-task planning, Skills / Subagents, HITL write approvals, file workspace, SSE console, automated eval. Vue3 + FastAPI + Deep Agents + LangGraph + MCP. Knowledge via [RAGLab](https://github.com/daetz-coder/RAGLab). |
-| **[RAGLab](https://github.com/daetz-coder/RAGLab)** | **Chinese enterprise-report Hybrid RAG** 鈥?Docling parse 路 Qdrant dense/sparse 路 query-understanding hard filters 路 cited answers & refusal 路 document lifecycle 路 eval dashboard. Powers DeepSupport knowledge (`kb=deepsupport`). |
+| **[DeepSupport-OS](https://github.com/daetz-coder/DeepSupport-OS)** | **Enterprise IT Help Desk Agent Harness** - M365 Help Desk (Outlook / Teams / OneDrive): long-task planning, Skills / Subagents, HITL write approvals, file workspace, SSE console, automated eval. Vue3 + FastAPI + Deep Agents + LangGraph + MCP. Knowledge via [RAGLab](https://github.com/daetz-coder/RAGLab). |
+| **[RAGLab](https://github.com/daetz-coder/RAGLab)** | **Chinese enterprise-report Hybrid RAG** - Docling parse · Qdrant dense/sparse · query-understanding hard filters · cited answers & refusal · document lifecycle · eval dashboard. Powers DeepSupport knowledge (`kb=deepsupport`). |
 
 ### Keywords
 
-`enterprise-it` 路 `helpdesk` 路 `itsm` 路 `microsoft-365` 路 `deep-agents` 路 `agent-harness` 路 `hitl` 路 `skills` 路 `subagents` 路 `langgraph` 路 `langchain` 路 `mcp` 路 `rag` 路 `hybrid-search` 路 `qdrant` 路 `docling` 路 `reranker` 路 `citation` 路 `refusal` 路 `evaluation` 路 `fastapi` 路 `vue3` 路 `deepseek`
+`enterprise-it` · `helpdesk` · `itsm` · `microsoft-365` · `deep-agents` · `agent-harness` · `hitl` · `skills` · `subagents` · `langgraph` · `langchain` · `mcp` · `rag` · `hybrid-search` · `qdrant` · `docling` · `reranker` · `citation` · `refusal` · `evaluation` · `fastapi` · `vue3` · `deepseek`
 
 ---
 
@@ -39,7 +39,7 @@ Human-in-the-loop tooling for coding agents and runtime scoring:
 
 ## Stack
 
-`Python` 路 `FastAPI` 路 `Vue 3` 路 `LangGraph` 路 `Deep Agents` 路 `LangChain` 路 `MCP` 路 `Qdrant` 路 `Docling` 路 `DeepSeek` 路 `Ollama` 路 `Flutter` 路 `Claude Code Hooks`
+`Python` · `FastAPI` · `Vue 3` · `LangGraph` · `Deep Agents` · `LangChain` · `MCP` · `Qdrant` · `Docling` · `DeepSeek` · `Ollama` · `Flutter` · `Claude Code Hooks`
 
 ---
 
@@ -47,9 +47,9 @@ Human-in-the-loop tooling for coding agents and runtime scoring:
 
 Research and practice in network intrusion detection, few-shot learning, and related ML systems.
 
-- [RadioML2016.10a_CNN](https://github.com/daetz-coder/RadioML2016.10a_CNN) 鈥?modulation recognition with MLP / CNN / ResNet
-- [CIC-DDoS2019-Detection](https://github.com/daetz-coder/CIC-DDoS2019-Detection) 鈥?DDoS detection pipeline & visualization
-- [Pytorch-MAML-Tutorial](https://github.com/daetz-coder/Pytorch-MAML-Tutorial) 鈥?MAML walkthrough on Omniglot
+- [RadioML2016.10a_CNN](https://github.com/daetz-coder/RadioML2016.10a_CNN) - modulation recognition with MLP / CNN / ResNet
+- [CIC-DDoS2019-Detection](https://github.com/daetz-coder/CIC-DDoS2019-Detection) - DDoS detection pipeline & visualization
+- [Pytorch-MAML-Tutorial](https://github.com/daetz-coder/Pytorch-MAML-Tutorial) - MAML walkthrough on Omniglot
 
 ---
 
@@ -57,6 +57,6 @@ Research and practice in network intrusion detection, few-shot learning, and rel
 
 - Blog: [CSDN](https://blog.csdn.net/a_student_2020)
 - GitHub: [daetz-coder](https://github.com/daetz-coder)
-- Flagship: [DeepSupport-OS](https://github.com/daetz-coder/DeepSupport-OS) 路 [RAGLab](https://github.com/daetz-coder/RAGLab)
+- Flagship: [DeepSupport-OS](https://github.com/daetz-coder/DeepSupport-OS) · [RAGLab](https://github.com/daetz-coder/RAGLab)
 
 Thanks for stopping by.
