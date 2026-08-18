@@ -4,7 +4,7 @@
 
 Hangzhou · Agent Engineering · Deep Agents / LangGraph / FastAPI / Vue
 
-**🌐 个人主页：** 托管于 [GitHub Pages](https://daetz-coder.github.io/) 与服务器 `/`
+**🌐 个人主页：** 托管于 [GitHub Pages](https://daetz-coder.github.io/) 与服务器 [123.57.64.231](http://123.57.64.231/)
 
 [![官网](https://img.shields.io/badge/Home-daetz--coder--github--io-0969da?style=flat-square&logo=githubpages)](https://daetz-coder.github.io/)
 [![CSDN](https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square)](https://blog.csdn.net/a_student_2020)
