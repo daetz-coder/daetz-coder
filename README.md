@@ -4,7 +4,7 @@
 
 Hangzhou · Agent Engineering · Deep Agents / LangGraph / FastAPI / Vue
 
-**🌐 官网 / 个人主页：** [daetz-coder.github.io](https://daetz-coder.github.io/) · 镜像站 [123.57.64.231](http://123.57.64.231/)
+**🌐 个人主页：** 托管于 [GitHub Pages](https://daetz-coder.github.io/) 与服务器 `/`
 
 [![官网](https://img.shields.io/badge/Home-daetz--coder--github--io-0969da?style=flat-square&logo=githubpages)](https://daetz-coder.github.io/)
 [![CSDN](https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square)](https://blog.csdn.net/a_student_2020)
@@ -59,7 +59,7 @@ Research and practice in network intrusion detection, few-shot learning, and rel
 
 ## Links
 
-- 官网 / 个人主页: [daetz-coder.github.io](https://daetz-coder.github.io/) · 镜像站 [123.57.64.231](http://123.57.64.231/)
+- 个人主页: [daetz-coder.github.io](https://daetz-coder.github.io/)（GitHub Pages · 服务器 `/`）
 - npm: [dsh-multi-chat](https://www.npmjs.com/package/dsh-multi-chat)
 - Blog: [CSDN](https://blog.csdn.net/a_student_2020)
 - GitHub: [daetz-coder](https://github.com/daetz-coder)
