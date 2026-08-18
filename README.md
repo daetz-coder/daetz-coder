@@ -4,6 +4,9 @@
 
 Hangzhou · Agent Engineering · Deep Agents / LangGraph / FastAPI / Vue
 
+**🌐 官网 / 个人主页：** [daetz-coder.github.io](https://daetz-coder.github.io/) · 镜像站 [123.57.64.231](http://123.57.64.231/)
+
+[![官网](https://img.shields.io/badge/Home-daetz--coder--github--io-0969da?style=flat-square&logo=githubpages)](https://daetz-coder.github.io/)
 [![CSDN](https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square)](https://blog.csdn.net/a_student_2020)
 [![GitHub](https://img.shields.io/badge/GitHub-daetz--coder-181717?style=flat-square&logo=github)](https://github.com/daetz-coder)
 
@@ -33,6 +36,7 @@ Human-in-the-loop tooling for coding agents and runtime scoring:
 | **[AgentLink](https://github.com/daetz-coder/AgentLink)** | Claude Code on your phone: approve permissions, answer questions, continue the same session. |
 | **[AgentForge](https://github.com/daetz-coder/AgentForge)** | Keep Cursor running: detect usage limits, switch accounts, reinject the same chat. |
 | **[Agent-Runtime-Evaluation-Platform](https://github.com/daetz-coder/Agent-Runtime-Evaluation-Platform)** | Six-dimension agent runtime scoring with LLM-as-Judge. |
+| **[dsh-multi-chat](https://github.com/daetz-coder/dsh-multi-chat)** | DeepSeek Harness multi-window wall plugin - [published on npm](https://www.npmjs.com/package/dsh-multi-chat). |
 | **[Storage-Lens](https://github.com/daetz-coder/Storage-Lens)** | Offline Android storage analyzer (Flutter). |
 
 ---
@@ -55,6 +59,8 @@ Research and practice in network intrusion detection, few-shot learning, and rel
 
 ## Links
 
+- 官网 / 个人主页: [daetz-coder.github.io](https://daetz-coder.github.io/) · 镜像站 [123.57.64.231](http://123.57.64.231/)
+- npm: [dsh-multi-chat](https://www.npmjs.com/package/dsh-multi-chat)
 - Blog: [CSDN](https://blog.csdn.net/a_student_2020)
 - GitHub: [daetz-coder](https://github.com/daetz-coder)
 - Flagship: [DeepSupport-OS](https://github.com/daetz-coder/DeepSupport-OS) · [RAGLab](https://github.com/daetz-coder/RAGLab)
