@@ -1,73 +1,30 @@
 # Hi, I'm daetz
 
-**Building agent systems & RAG tooling for real enterprise workflows.**
+I make indie games, build game art tools, and work on AI agents.
 
-Hangzhou · Agent Engineering · Deep Agents / LangGraph / FastAPI / Vue
+[DAETZ STUDIO](https://daetz-coder.github.io/studio/) · [Personal website](https://daetz-coder.github.io/) · [简体中文](README.zh.md)
 
-**🌐 个人主页：** 托管于 [GitHub Pages](https://daetz-coder.github.io/) 与服务器 [123.57.64.231](http://123.57.64.231/)
+## DAETZ STUDIO
 
-[![官网](https://img.shields.io/badge/Home-daetz--coder--github--io-0969da?style=flat-square&logo=githubpages)](https://daetz-coder.github.io/)
-[![npm dsh-multi-chat](https://img.shields.io/npm/v/dsh-multi-chat?style=flat-square&logo=npm&label=dsh-multi-chat)](https://www.npmjs.com/package/dsh-multi-chat)
-[![npm curloop](https://img.shields.io/npm/v/curloop?style=flat-square&logo=npm&label=curloop)](https://www.npmjs.com/package/curloop)
-[![CSDN](https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square)](https://blog.csdn.net/a_student_2020)
-[![GitHub](https://img.shields.io/badge/GitHub-daetz--coder-181717?style=flat-square&logo=github)](https://github.com/daetz-coder)
+<a href="https://daetz-coder.github.io/studio/"><img src="https://daetz-coder.github.io/studio/assets/daetz-studio.png" alt="DAETZ STUDIO goose logo" width="104" align="right"></a>
 
----
+**DAETZ STUDIO (大鹅同志工作室)** is our indie game studio. **墨弹连击** is a comic-style roguelite brick breaker. Bounce balls off walls to chain hits, then use upgrades to change how you play each run.
 
-## Now
+[See the game on the studio website](https://daetz-coder.github.io/studio/#games)
 
-Focus: **enterprise IT support agents** and **grounded RAG** - planning, HITL approvals, Skills/Subagents, hybrid retrieval, citation & refusal, and automated eval.
+## Game development tools
 
-I also ship small **npm tools** for DeepSeek Harness & Cursor workflows - `dsh-multi-chat` (multi-window wall for DSH) and `curloop` (unattended Cursor coding loop).
+**[Pixel Asset Workshop](https://github.com/daetz-coder/pixel-asset-workshop)** turns a single animation clip into game sprites for multiple characters. The bundled **SpriteFrame** workbench runs locally and lets you crop, key, select and reorder frames, then export transparent PNGs, sprite sheets and GIFs. The example includes a Godot comparison scene and six sets of sprites you can reuse under CC0.
 
-| Project | What it is |
-| --- | --- |
-| **[DeepSupport-OS](https://github.com/daetz-coder/DeepSupport-OS)** | **Enterprise IT Help Desk Agent Harness** - M365 Help Desk (Outlook / Teams / OneDrive): long-task planning, Skills / Subagents, HITL write approvals, file workspace, SSE console, automated eval. Vue3 + FastAPI + Deep Agents + LangGraph + MCP. Knowledge via [RAGLab](https://github.com/daetz-coder/RAGLab). |
-| **[RAGLab](https://github.com/daetz-coder/RAGLab)** | **Chinese enterprise-report Hybrid RAG** - Docling parse · Qdrant dense/sparse · query-understanding hard filters · cited answers & refusal · document lifecycle · eval dashboard. Powers DeepSupport knowledge (`kb=deepsupport`). |
+[Watch the Godot demo](https://daetz-coder.github.io/projects/pixel-asset-workshop/showcase/godot.html) · [Download SpriteFrame (.zip)](https://github.com/daetz-coder/pixel-asset-workshop/archive/refs/heads/main.zip) · [Installation guide](https://daetz-coder.github.io/projects/pixel-asset-workshop/showcase/spriteframe.html#install)
 
-### Keywords
-
-`enterprise-it` · `helpdesk` · `itsm` · `microsoft-365` · `deep-agents` · `agent-harness` · `hitl` · `skills` · `subagents` · `langgraph` · `langchain` · `mcp` · `rag` · `hybrid-search` · `qdrant` · `docling` · `reranker` · `citation` · `refusal` · `evaluation` · `fastapi` · `vue3` · `deepseek`
-
----
-
-## Also shipping
-
-Human-in-the-loop tooling for coding agents and runtime scoring:
+## Agent engineering
 
 | Project | What it does |
 | --- | --- |
-| **[dsh-multi-chat](https://github.com/daetz-coder/dsh-multi-chat)** | DeepSeek Harness multi-window wall plugin - [published on npm](https://www.npmjs.com/package/dsh-multi-chat): run & monitor N DSH conversations side-by-side, plus an authenticated LAN gateway. |
-| **[curloop](https://github.com/daetz-coder/CurLoop)** | Unattended Cursor coding loop - [published on npm](https://www.npmjs.com/package/curloop): detect usage limits / login expiry, switch accounts, and resume the same session. |
-| **[AgentLink](https://github.com/daetz-coder/AgentLink)** | Claude Code on your phone: approve permissions, answer questions, continue the same session. |
-| **[AgentForge](https://github.com/daetz-coder/AgentForge)** | Keep Cursor running: detect usage limits, switch accounts, reinject the same chat. |
-| **[Agent-Runtime-Evaluation-Platform](https://github.com/daetz-coder/Agent-Runtime-Evaluation-Platform)** | Six-dimension agent runtime scoring with LLM-as-Judge. |
-| **[Storage-Lens](https://github.com/daetz-coder/Storage-Lens)** | Offline Android storage analyzer (Flutter). |
+| [DeepSupport OS](https://github.com/daetz-coder/DeepSupport-OS) | IT help desk agent for Microsoft 365 with task planning and human approval for write actions. |
+| [RAGLab](https://github.com/daetz-coder/RAGLab) | Hybrid retrieval over Chinese enterprise reports, with cited answers and an evaluation dashboard. |
+| [Agent Runtime Evaluation Platform](https://github.com/daetz-coder/Agent-Runtime-Evaluation-Platform) | Evaluates how agents plan, use tools, retrieve information and adapt during a run. |
+| [DSH Multi Chat](https://github.com/daetz-coder/dsh-multi-chat) · [DSH Mobile](https://github.com/daetz-coder/DSH-Mobile) | Work with multiple DeepSeek Harness sessions side by side or connect from an Android device. |
 
----
-
-## Stack
-
-`Python` · `FastAPI` · `Vue 3` · `LangGraph` · `Deep Agents` · `LangChain` · `MCP` · `Qdrant` · `Docling` · `DeepSeek` · `Ollama` · `Flutter` · `Claude Code Hooks`
-
----
-
-## Previously
-
-Research and practice in network intrusion detection, few-shot learning, and related ML systems.
-
-- [RadioML2016.10a_CNN](https://github.com/daetz-coder/RadioML2016.10a_CNN) - modulation recognition with MLP / CNN / ResNet
-- [CIC-DDoS2019-Detection](https://github.com/daetz-coder/CIC-DDoS2019-Detection) - DDoS detection pipeline & visualization
-- [Pytorch-MAML-Tutorial](https://github.com/daetz-coder/Pytorch-MAML-Tutorial) - MAML walkthrough on Omniglot
-
----
-
-## Links
-
-- 个人主页: [daetz-coder.github.io](https://daetz-coder.github.io/) · 服务器 [123.57.64.231](http://123.57.64.231/)
-- npm: [dsh-multi-chat](https://www.npmjs.com/package/dsh-multi-chat) · [curloop](https://www.npmjs.com/package/curloop)
-- Blog: [CSDN](https://blog.csdn.net/a_student_2020)
-- GitHub: [daetz-coder](https://github.com/daetz-coder)
-- Flagship: [DeepSupport-OS](https://github.com/daetz-coder/DeepSupport-OS) · [RAGLab](https://github.com/daetz-coder/RAGLab)
-
-Thanks for stopping by.
+[Job Kanban](https://github.com/daetz-coder/job-kanban) is a local job application tracker that stores its data in a JSON file. I also share technical notes on [CSDN](https://blog.csdn.net/a_student_2020).
